@@ -1,3 +1,7 @@
+# For Vencore info, please [go here](https://github.com/ApexTeamPL/Vencore)
+## Here we are just providing source code and dev builds for someone like me!
+- Slara
+
 # Vencord
 
 ![](https://img.shields.io/github/package-json/v/Vendicated/Vencord?style=for-the-badge&logo=github&logoColor=d3869b&label=&color=1d2021&labelColor=282828)
