@@ -1,4 +1,7 @@
-# For Vencore info, please [go here](https://github.com/ApexTeamPL/Vencore)
+# WARNING: Vencore 1.3 is archived as of 30th July 2025.
+## Please DO NOT use 1.3 and wait for the continuation. More info in our discord.
+
+## For Vencore info, please [go here](https://github.com/ApexTeamPL/Vencore)
 ## Here we are just providing source code and dev builds for someone like me!
 - Slara
 
